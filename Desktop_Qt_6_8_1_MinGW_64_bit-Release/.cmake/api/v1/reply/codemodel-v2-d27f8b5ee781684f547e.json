@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3d7d056ce4248c268c8a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Board_Games",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Board_Games::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Board_Games-Release-c8d64c0b337479822739.json",
+					"name" : "Board_Games",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Board_Games_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Board_Games_autogen-Release-344d27abdb6e4ec67d89.json",
+					"name" : "Board_Games_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Board_Games_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Board_Games_autogen_timestamp_deps-Release-c49e9a671df82f55332d.json",
+					"name" : "Board_Games_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Board_Games/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release",
+		"source" : "E:/Board_Games"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
